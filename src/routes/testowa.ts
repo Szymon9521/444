@@ -36,7 +36,7 @@ export default class testowa {
                 headers: {
                     'Accept': 'application/json',
                     'Content-Type': 'application/json',
-                    'Authorization': 'Bearer ptlc_4x6pptELQgtwoaNShxvdNbYbyIfO7EuCWCk8PENOsmJ',
+                    'Authorization': 'Bearer klucz',
                 },
             });
 
